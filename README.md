@@ -1,2 +1,2 @@
 # teste-do-GIT
-iniciante no GIT
+iniciante no GIT - HUB + GUI
